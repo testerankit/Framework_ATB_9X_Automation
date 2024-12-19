@@ -1,0 +1,1 @@
+{"uuid":"0af8c072-230e-4901-ad70-ef0e50877c97","name":"Framework_ATB_9X_Automation","children":["4c2b50e9-728a-4880-b710-c43e50436b10"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1734545624408,"stop":1734545625075}],"afters":[],"start":1734545624388,"stop":1734545629129}

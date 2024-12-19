@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/ankit.singh/API Automation Framework/Framework_ATB_9X_Automation">
+       <groups>
+           <run>
+               <include name="stg"> </include>
+           </run>
+       </groups>
+
+        <classes>
+            <class name="com.thetestingacademy.tests.sample.TestIntegrationSample">
+            </class>
+        </classes>
+    </test>
+</suite>
