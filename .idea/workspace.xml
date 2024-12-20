@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43188977-0db2-467d-b871-596d75cea92d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="43188977-0db2-467d-b871-596d75cea92d" name="Changes" comment="Updated workspace.xml">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/PayloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/modules/PayloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/crud/testCreateBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/crud/testCreateBooking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/TestIntegrationFlow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/TestIntegrationFlow2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/TestIntegratonFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/tests/integration/TestIntegrationFlow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ankit.singh/API Automation Framework/Framework_ATB_9X_Automation",
+    "last_opened_file_path": "C:/Users/ankit.singh/SP Migration/25.11.24/tms_qa_automation",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
